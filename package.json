@@ -1,0 +1,19 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tduell74/flashcards.git"
+  },
+  "author": "Thomas Duell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tduell74/flashcards/issues"
+  },
+  "homepage": "https://github.com/tduell74/flashcards#readme"
+}
